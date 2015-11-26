@@ -3,16 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "atstore1"
     },
     "adminUsername": {
-      "value": "admin123"
+      "value": "tvn2one21"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "Cloud12345!!"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
+      "value": "attvn2one21"
+    },
+    "location":{
+      "value": "West US"
+    },
+    "sizeofDiskInGB": {
+      "value": "20"
     }
   }
 }
